@@ -5,6 +5,9 @@ Dataset loading and preprocessing (scaling, binarization).
 Image enhancement using histogram equalization, noise removal, and thresholding.
 
 KNN model training on the preprocessed data, evaluation of accuracy.
+
 Hand gesture dataset exploration (image loading, visualization).
+
 Feature transformation using PCA, standardization.
+
 KNN classification with PCA-transformed features.
